@@ -1,0 +1,1 @@
+Following along the tutorial, working my way through the Units. Goal is to be finishing Asynchronus Web Apps by Friday night.
